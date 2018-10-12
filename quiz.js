@@ -179,7 +179,7 @@
     $.each( data, function( key, value ) {
       if ( key == 'correct' || key == 'incorrect' ) {
         var j;
-        var hexes = data[key].match(/.{1,5}/g) || [];
+        var hexes = data[key].match(/.{1,4}/g) || [];
         var back = "";
         for( j = 0; j<hexes.length; j++ ) {
           back += String.fromCharCode( parseInt( hexes[j], 16 ) );
