@@ -1,0 +1,84 @@
+/* line 5, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-polygon.css.scss */
+.quiz-container {
+  font-family: "Gotham SSm A", "Gotham SSm B", Arial, sans-serif;
+  border-top: 3px solid #000000; }
+
+/* line 11, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-polygon.css.scss */
+.qq-question {
+  font-family: "Gotham SSm A", "Gotham SSm B", Arial, sans-serif;
+  font-weight: bold;
+  color: #000000;
+  font-size: 1.5em;
+  margin: 0% auto;
+  margin-bottom: 20px; }
+
+/* line 21, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-polygon.css.scss */
+.qq-description {
+  font-family: "Gotham SSm A", "Gotham SSm B", Arial, sans-serif;
+  padding: 20px 20px 0px 20px; }
+
+/* line 27, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-polygon.css.scss */
+ol.answers > li {
+  font-family: "Gotham SSm A", "Gotham SSm B", Arial, sans-serif; }
+  /* line 30, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-polygon.css.scss */
+  ol.answers > li:before {
+    font-family: "Gotham SSm A", "Gotham SSm B", Arial, sans-serif;
+    font-style: italic;
+    color: #FFFFFF;
+    background-color: #3F1E45;
+    width: 30px; }
+  /* line 37, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-polygon.css.scss */
+  ol.answers > li:hover {
+    background-color: #EBEBEC; }
+
+/* line 43, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-polygon.css.scss */
+.qq-button {
+  font-family: "Gotham SSm A", "Gotham SSm B", Arial, sans-serif;
+  font-style: italic;
+  font-weight: 800;
+  color: #FFFFFF;
+  background-color: #FF0052;
+  width: 180px; }
+  /* line 50, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-polygon.css.scss */
+  .qq-button:hover {
+    background-color: #3F1E45 !important; }
+
+/* line 56, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-polygon.css.scss */
+.selected {
+  background-color: #DFDFE0; }
+
+/* line 61, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-polygon.css.scss */
+.submit-highlight {
+  background-color: #CD1949; }
+
+/* line 66, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-polygon.css.scss */
+.answer p:first-child {
+  font-family: "Gotham SSm A", "Gotham SSm B", Arial, sans-serif; }
+
+/* line 71, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-polygon.css.scss */
+#social-media ul li a svg {
+  fill: #3F1E45; }
+  /* line 72, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-polygon.css.scss */
+  #social-media ul li a svg:hover {
+    fill: #ED1C55; }
+  /* line 75, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-polygon.css.scss */
+  #social-media ul li a svg path:hover {
+    fill: #FFFFFF; }
+
+/* line 82, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-polygon.css.scss */
+.answer a {
+  color: #FF0052;
+  text-decoration: none; }
+  /* line 85, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-polygon.css.scss */
+  .answer a:hover {
+    text-decoration: underline; }
+
+/* line 91, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-polygon.css.scss */
+.flowchart-selected {
+  background-color: #3F1E45 !important;
+  color: #FFFFFF !important; }
+
+/* line 98, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-polygon.css.scss */
+.flowchart-button:hover {
+  background-color: #3F1E45;
+  color: #FFFFFF; }

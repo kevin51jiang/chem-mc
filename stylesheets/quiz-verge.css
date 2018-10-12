@@ -1,0 +1,101 @@
+/* line 5, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-verge.css.scss */
+.quiz-container {
+  font-family: Helvetica, sans-serif;
+  border-top: 8px solid #FB4834;
+  padding-top: 20px; }
+
+/* line 12, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-verge.css.scss */
+.qq-question {
+  font-family: ff-din-web-condensed, Helvetica, sans-serif;
+  font-weight: 800;
+  font-size: 1.5em;
+  font-style: italic;
+  text-transform: uppercase;
+  color: #000000;
+  margin: 0% auto;
+  max-width: 80%;
+  margin-bottom: 20px; }
+
+/* line 25, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-verge.css.scss */
+.qq-description {
+  padding: 20px 15px 0px 15px;
+  font-family: Helvetica, sans-serif; }
+
+/* line 31, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-verge.css.scss */
+ol.answers > li {
+  font-family: Helvetica, sans-serif;
+  font-size: 0.9em; }
+  /* line 35, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-verge.css.scss */
+  ol.answers > li:before {
+    font-family: ff-din-web-condensed, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 800;
+    font-size: 1em;
+    color: #FFFFFF;
+    line-height: 0.8em;
+    background-color: #FB4834;
+    width: 30px;
+    padding: 8px 0px 5px 0px; }
+  /* line 46, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-verge.css.scss */
+  ol.answers > li:hover {
+    background-color: #F4F0EE; }
+
+/* line 52, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-verge.css.scss */
+.qq-button {
+  font-family: ff-din-web-condensed, Helvetica, sans-serif !important;
+  font-weight: 400;
+  font-size: 1.02em;
+  color: #FFFFFF;
+  background-color: #000000; }
+  /* line 58, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-verge.css.scss */
+  .qq-button:hover {
+    background-color: #FB4834 !important; }
+
+/* line 64, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-verge.css.scss */
+.selected {
+  background-color: #DFDFE0; }
+
+/* line 69, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-verge.css.scss */
+.submit-highlight {
+  background-color: #6D6E70; }
+
+/* line 74, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-verge.css.scss */
+.answer p:first-child {
+  font-family: ff-din-web-condensed, Helvetica, sans-serif;
+  text-transform: uppercase; }
+
+/* line 80, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-verge.css.scss */
+.check-score {
+  width: 35%; }
+
+/* line 85, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-verge.css.scss */
+#social-media ul li a svg {
+  fill: #000000; }
+  /* line 87, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-verge.css.scss */
+  #social-media ul li a svg:hover {
+    fill: #FB4834; }
+  /* line 90, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-verge.css.scss */
+  #social-media ul li a svg path:hover {
+    fill: #FFFFFF; }
+
+/* line 96, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-verge.css.scss */
+.scorecard p:nth-child(2) {
+  color: #FB4834; }
+
+/* line 101, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-verge.css.scss */
+.answer a {
+  color: #FB4834;
+  text-decoration: none; }
+  /* line 104, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-verge.css.scss */
+  .answer a:hover {
+    text-decoration: underline; }
+
+/* line 110, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-verge.css.scss */
+.flowchart-selected {
+  background-color: #FB4834 !important;
+  color: #FFFFFF !important; }
+
+/* line 117, C:/Users/Kevin J/Documents/randomGithub/quiz-generator/source/stylesheets/quiz-verge.css.scss */
+.flowchart-button:hover {
+  background-color: #FB4834;
+  color: #FFFFFF; }
